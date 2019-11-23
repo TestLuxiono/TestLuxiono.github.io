@@ -52,7 +52,7 @@ body {
 
 .form .message {
   margin: 15px 0 0;
-  color: #00ffe5;
+  color: #00ffa2;
   font-size: 12px;
 }
 
@@ -61,7 +61,9 @@ body {
   text-decoration: none;
 }
   
-
+.form .register-form {
+  display: none;
+}
 
 
 
