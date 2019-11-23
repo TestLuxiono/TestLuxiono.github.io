@@ -1,4 +1,6 @@
 body {
   background-image: url("https://www.pixelstalk.net/wp-content/uploads/images1/Osu-Logo-Game-Images.jpg");
   height: 100vh;
+  background-size: cover;
+  background-position: center;
 }
